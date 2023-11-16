@@ -1,0 +1,14 @@
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\exercicioBancoConstrutores\exercicioBancoConstrutores\obj\Debug\net6.0\exercicioBancoConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\exercicioBancoConstrutores\exercicioBancoConstrutores\obj\Debug\net6.0\exercicioBancoConstrutores.AssemblyInfoInputs.cache
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\exercicioBancoConstrutores\exercicioBancoConstrutores\obj\Debug\net6.0\exercicioBancoConstrutores.AssemblyInfo.cs
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\exercicioBancoConstrutores\exercicioBancoConstrutores\obj\Debug\net6.0\exercicioBancoConstrutores.csproj.CoreCompileInputs.cache
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\exercicioBancoConstrutores\exercicioBancoConstrutores\bin\Debug\net6.0\exercicioBancoConstrutores.exe
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\exercicioBancoConstrutores\exercicioBancoConstrutores\bin\Debug\net6.0\exercicioBancoConstrutores.deps.json
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\exercicioBancoConstrutores\exercicioBancoConstrutores\bin\Debug\net6.0\exercicioBancoConstrutores.runtimeconfig.json
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\exercicioBancoConstrutores\exercicioBancoConstrutores\bin\Debug\net6.0\exercicioBancoConstrutores.dll
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\exercicioBancoConstrutores\exercicioBancoConstrutores\bin\Debug\net6.0\exercicioBancoConstrutores.pdb
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\exercicioBancoConstrutores\exercicioBancoConstrutores\obj\Debug\net6.0\exercicioBancoConstrutores.dll
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\exercicioBancoConstrutores\exercicioBancoConstrutores\obj\Debug\net6.0\refint\exercicioBancoConstrutores.dll
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\exercicioBancoConstrutores\exercicioBancoConstrutores\obj\Debug\net6.0\exercicioBancoConstrutores.pdb
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\exercicioBancoConstrutores\exercicioBancoConstrutores\obj\Debug\net6.0\exercicioBancoConstrutores.genruntimeconfig.cache
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\exercicioBancoConstrutores\exercicioBancoConstrutores\obj\Debug\net6.0\ref\exercicioBancoConstrutores.dll
