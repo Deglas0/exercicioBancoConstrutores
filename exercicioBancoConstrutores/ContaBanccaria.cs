@@ -30,6 +30,7 @@ namespace exercicioBancoConstrutores
             }
         }
 
+
         public ContaBancaria(int numero, string titular)
         {
             Numero = numero;
@@ -62,7 +63,7 @@ namespace exercicioBancoConstrutores
         }
 
 
-
+        
 
     }
 }
